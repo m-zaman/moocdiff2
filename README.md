@@ -1,1 +1,1 @@
-# moocdiff2
+The preprocess verticals file takes processes the course logs and axis, builds a word2vec model, and then uses the class built in FindDiffBetweenCourses in order to build a classifier to make predictions on whether a vertical changed or not.
